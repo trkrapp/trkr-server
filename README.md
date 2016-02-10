@@ -13,4 +13,6 @@ Wildfly 10 server w/ Keycloak 1.8.1.Final and OAuth settings for Facebook & Gith
 
 4. Start server and look on http://localhost:8080/auth
 
+----
  
+ See also http://keycloak.github.io/docs/userguide/keycloak-server/html/identity-broker.html#d4e1662
